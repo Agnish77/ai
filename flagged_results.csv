@@ -1,0 +1,8 @@
+comment_id,username,comment_text,is_offensive,offense_type,explanation
+1,user123,"You’re an idiot, go away.",True,"['toxic', 'obscene', 'insult']","toxic: 0.99, obscene: 0.73, insult: 0.95"
+2,peaceful_one,I love how this was handled.,False,[],
+3,toxic_tom,You’re such a loser and a disgrace.,True,"['toxic', 'insult']","toxic: 0.98, insult: 0.93"
+4,friendly_guy,Great job! Thanks for sharing.,False,[],
+5,rude_dude,This is the dumbest thing I've seen.,True,['toxic'],toxic: 0.91
+6,helpful123,Let me know if you need help.,False,[],
+7,mean_guy,You suck and should quit now.,True,"['toxic', 'obscene', 'insult']","toxic: 0.99, obscene: 0.96, insult: 0.94"
